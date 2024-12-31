@@ -1,0 +1,7 @@
+opencv-python>=4.6.0
+Pillow
+cython
+numpy>=1.13
+pyopengl
+mysql-connector-python
+tqdm

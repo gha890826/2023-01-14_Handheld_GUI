@@ -1,0 +1,42 @@
+{
+    "device_name": "測試場域",
+    "field_ids": [
+        2,3,
+        4
+    ],
+    "field_names": [
+        "場域1","場域2",
+        "場域3"
+    ],
+    "fidld_name_dict": {
+        "2": "場域1",
+        "3": "場域2",
+        "4": "場域3"
+    },
+    "pool_ids": [
+        [
+            2
+        ],[3],
+        [
+            4
+        ]
+    ],
+    "pool_names": [
+        [
+            "場域1的1號池"
+        ],
+        [
+            "場域2的2號池"
+        ],
+        [
+            "場域3的3號池"
+        ]
+    ],
+    "pool_name_dict": {
+        "2": "場域1的1號池",
+        "3": "場域2的2號池",
+        "4": "場域3的3號池"
+    },
+    "upload_when_recording": false,
+    "delete_after_upload": false
+}

@@ -1,0 +1,238 @@
+2023-03-17 15:44:41 read setting
+2023-03-17 15:44:49 讀取log
+2023-03-17 16:02:23 close system
+2023-03-17 17:04:51 read setting
+2023-03-17 17:06:17 close system
+2023-03-17 17:23:19 read setting
+2023-03-17 17:27:51 read setting
+2023-03-17 17:29:20 read setting
+2023-03-17 17:35:25 read setting
+2023-03-17 17:35:29 close system
+2023-03-17 17:59:54 read setting
+2023-03-17 18:04:21 read setting
+2023-03-17 18:04:21 close system
+2023-03-17 18:04:21 err when closing page
+2023-03-17 18:35:16 read setting
+2023-03-17 18:36:31 close system
+2023-03-17 19:00:16 read setting
+2023-03-17 19:01:28 read setting
+2023-03-17 19:01:29 close system
+2023-03-17 19:01:29 err when closing page
+2023-03-17 19:05:40 read setting
+2023-03-17 19:05:41 close system
+2023-03-17 19:05:41 err when closing page
+2023-03-17 19:08:44 read setting
+2023-03-17 19:11:14 read setting
+2023-03-17 19:11:14 close system
+2023-03-17 19:11:14 err when closing page
+2023-03-17 19:14:21 read setting
+2023-03-17 19:14:21 close system
+2023-03-17 19:14:21 err when closing page
+2023-03-17 19:23:36 read setting
+2023-03-17 19:30:24 read setting
+2023-03-17 19:34:03 read setting
+2023-03-17 19:34:40 讀取log
+2023-03-17 19:39:29 read setting
+2023-03-17 19:42:23 read setting
+2023-03-17 19:45:06 read setting
+2023-03-17 19:45:30 close system
+2023-03-17 19:46:30 read setting
+2023-03-17 19:49:18 save setting
+2023-03-17 19:49:21 save setting
+2023-03-17 19:49:27 close system
+2023-03-17 19:50:29 read setting
+2023-03-17 19:55:44 read setting
+2023-03-17 19:55:52 ZED open fail!!!
+2023-03-17 20:07:02 read setting
+2023-03-17 20:10:37 read setting
+2023-03-17 20:11:14 read setting
+2023-03-17 20:12:30 read setting
+2023-03-17 20:13:39 read setting
+2023-03-17 20:14:02 start record 5 sec
+2023-03-17 20:14:07 Recording Finished
+2023-03-17 20:17:55 read setting
+2023-03-17 20:18:16 close system
+2023-03-17 20:20:03 read setting
+2023-03-17 20:24:06 read setting
+2023-03-17 20:24:15 read setting
+2023-03-17 20:24:51 read setting
+2023-03-17 20:25:26 close system
+2023-03-17 20:27:05 read setting
+2023-03-17 20:27:11 save setting
+2023-03-17 20:27:15 save setting
+2023-03-17 20:27:16 讀取log
+2023-03-17 20:27:24 讀取log
+2023-03-17 20:27:42 close system
+2023-03-17 20:30:46 read setting
+2023-03-17 20:31:15 close system
+2023-03-17 20:31:35 read setting
+2023-03-17 20:31:43 save setting
+2023-03-17 20:31:47 讀取log
+2023-03-17 20:31:55 close system
+2023-03-17 20:33:03 read setting
+2023-03-17 20:33:09 讀取log
+2023-03-17 20:33:13 save setting
+2023-03-17 20:33:15 save setting
+2023-03-17 20:33:35 close system
+2023-03-17 20:33:38 read setting
+2023-03-17 20:33:51 save setting
+2023-03-17 20:33:55 save setting
+2023-03-17 20:34:27 讀取log
+2023-03-17 20:35:03 save setting
+2023-03-17 20:35:04 close system
+2023-03-17 20:35:07 read setting
+2023-03-17 20:35:20 save setting
+2023-03-17 20:35:25 save setting
+2023-03-17 20:35:31 save setting
+2023-03-17 20:36:21 save setting
+2023-03-17 20:36:22 close system
+2023-03-17 20:36:25 read setting
+2023-03-17 20:36:31 save setting
+2023-03-17 20:36:33 save setting
+2023-03-17 20:36:35 close system
+2023-03-17 20:39:33 read setting
+2023-03-17 20:39:40 close system
+2023-03-17 20:55:36 read setting
+2023-03-17 20:57:45 read setting
+2023-03-17 20:57:54 start record 5 sec
+2023-03-17 20:57:59 Recording Finished
+2023-03-17 20:58:28 save setting
+2023-03-17 20:58:35 start record 5 sec
+2023-03-17 20:58:40 Recording Finished
+2023-03-17 20:59:35 close system
+2023-03-17 21:00:35 read setting
+2023-03-17 21:01:10 start record 5 sec
+2023-03-17 21:01:15 Recording Finished
+2023-03-17 21:02:00 start record 5 sec
+2023-03-17 21:02:05 Recording Finished
+2023-03-17 21:02:06 start record 5 sec
+2023-03-17 21:02:11 Recording Finished
+2023-03-17 21:02:12 start record 5 sec
+2023-03-17 21:02:17 Recording Finished
+2023-03-17 21:02:18 start record 5 sec
+2023-03-17 21:02:23 Recording Finished
+2023-03-17 21:02:24 start record 5 sec
+2023-03-17 21:02:29 Recording Finished
+2023-03-17 21:06:26 read setting
+2023-03-17 21:08:34 read setting
+2023-03-17 21:10:17 close system
+2023-03-17 21:10:50 read setting
+2023-03-17 21:15:12 close system
+2023-03-17 21:15:15 read setting
+2023-03-17 21:16:23 close system
+2023-03-17 21:16:34 read setting
+2023-03-17 21:17:08 start record 5 sec
+2023-03-17 21:17:13 Recording Finished
+2023-03-17 21:17:14 start record 5 sec
+2023-03-17 21:17:19 Recording Finished
+2023-03-17 21:17:20 start record 5 sec
+2023-03-17 21:17:26 Recording Finished
+2023-03-17 21:27:21 close system
+2023-03-17 21:29:24 read setting
+2023-03-17 21:29:31 start record 5 sec
+2023-03-17 21:29:36 Recording Finished
+2023-03-17 21:36:18 close system
+2023-04-23 20:14:31 read setting
+2023-04-23 20:14:34 讀取log
+2023-04-23 20:14:37 save setting
+2023-04-23 20:14:59 ZED open fail!!!
+2023-04-23 20:15:38 讀取log
+2023-04-23 20:18:38 close system
+2023-04-23 20:18:40 read setting
+2023-04-23 20:25:54 close system
+2023-04-23 20:29:34 read setting
+2023-04-23 20:30:12 close system
+2023-04-23 20:30:59 read setting
+2023-04-23 20:31:45 close system
+2023-04-23 20:31:48 read setting
+2023-04-23 20:35:34 close system
+2023-04-23 20:35:36 read setting
+2023-04-23 20:43:17 close system
+2023-04-23 20:43:58 read setting
+2023-04-23 22:00:45 close system
+2023-04-23 22:00:49 read setting
+2023-04-23 22:00:51 close system
+2023-04-23 22:00:55 read setting
+2023-04-23 22:01:00 save setting
+2023-04-23 22:01:00 close system
+2023-04-23 22:07:17 read setting
+2023-04-23 22:07:25 close system
+2023-04-23 22:09:45 read setting
+2023-04-23 22:10:00 ZED open fail!!!
+2023-04-23 22:10:04 close system
+2023-04-23 22:20:14 read setting
+2023-04-23 22:20:15 close system
+2023-04-23 22:20:21 read setting
+2023-04-23 22:20:36 close system
+2023-04-23 22:20:45 read setting
+2023-04-23 22:20:53 close system
+2023-04-23 22:21:18 read setting
+2023-04-24 12:57:26 read setting
+2023-04-24 12:57:40 ZED open fail!!!
+2023-04-24 12:57:47 close system
+2023-04-25 18:22:37 read setting
+2023-04-25 18:22:37 close system
+2023-04-25 18:22:37 err when closing page
+2023-04-25 18:23:07 read setting
+2023-04-25 18:29:16 close system
+2023-04-28 23:52:44 read setting
+2023-04-28 23:52:51 ZED open fail!!!
+2023-04-28 23:53:04 read setting
+2023-04-28 23:53:12 ZED open fail!!!
+2023-04-29 00:07:49 close system
+2023-05-01 22:55:05 read setting
+2023-05-01 22:55:09 close system
+2023-05-09 19:05:16 read setting
+2023-05-09 19:05:16 close system
+2023-05-09 19:05:16 err when closing page
+2023-05-09 19:05:36 read setting
+2023-05-09 19:05:55 close system
+2023-05-09 19:07:29 read setting
+2023-05-09 19:07:39 close system
+2023-05-09 19:07:58 read setting
+2023-05-09 19:11:37 close system
+2023-05-20 20:26:17 read setting
+2023-05-20 20:26:37 讀取log
+2023-05-20 20:26:49 close system
+2023-05-20 20:28:08 read setting
+2023-05-20 20:28:32 close system
+2023-05-20 20:29:05 read setting
+2023-05-20 20:39:58 read setting
+2023-05-20 20:40:06 close system
+2023-05-20 20:40:23 read setting
+2023-05-20 20:55:30 read setting
+2023-05-20 20:57:08 close system
+2023-05-20 20:57:10 read setting
+2023-05-20 20:57:29 close system
+2023-05-20 20:57:31 read setting
+2023-05-20 20:57:40 close system
+2023-05-20 20:58:00 read setting
+2023-05-20 20:58:07 close system
+2023-05-20 20:58:21 read setting
+2023-05-20 20:58:47 start record 5 sec
+2023-05-20 20:58:52 Recording Finished
+2023-05-20 20:59:03 close system
+2023-05-20 21:05:20 read setting
+2023-05-20 21:06:27 close system
+2023-05-20 21:06:30 read setting
+2023-05-20 21:06:51 close system
+2023-05-20 21:06:53 read setting
+2023-05-20 21:07:23 delete filesvo_files\2022-10-13-16-35-07.svo
+2023-05-20 21:07:30 close system
+2023-05-20 21:29:17 read setting
+2023-05-20 21:29:30 close system
+2023-05-20 21:30:24 read setting
+2023-05-20 21:30:39 close system
+2023-05-28 14:37:32 read setting
+2023-05-28 14:37:52 讀取log
+2023-05-28 14:38:04 close system
+2023-05-28 14:38:36 read setting
+2023-05-28 14:38:55 ZED open fail!!!
+2023-05-28 14:39:43 start record 5 sec
+2023-05-28 14:39:48 Recording Finished
+2023-05-28 14:40:05 close system
+2024-06-13 12:40:17 read setting
+2024-06-13 12:42:23 ZED open fail!!!
+2024-06-13 12:42:54 start record 5 sec
+2024-06-13 12:42:59 Recording Finished
+2024-06-13 12:46:51 close system

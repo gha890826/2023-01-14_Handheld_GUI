@@ -1,0 +1,74 @@
+[
+    {
+        "rec_time": [
+            2023,
+            5,
+            20,
+            20,
+            58,
+            47,
+            5,
+            140,
+            0
+        ],
+        "field_id": 3,
+        "pool_id": 3,
+        "svo_path": "svo_files\\3_3_2023-05-20-20-58-47.svo",
+        "uploaded": false,
+        "deleted": false
+    },
+    {
+        "rec_time": [
+            2023,
+            5,
+            20,
+            20,
+            59,
+            47,
+            5,
+            140,
+            0
+        ],
+        "field_id": 3,
+        "pool_id": 3,
+        "svo_path": "svo_files\\no_file_exist.svo",
+        "uploaded": false,
+        "deleted": false
+    },
+    {
+        "rec_time": [
+            2023,
+            5,
+            28,
+            14,
+            39,
+            43,
+            6,
+            148,
+            0
+        ],
+        "field_id": 2,
+        "pool_id": 2,
+        "svo_path": "svo_files\\2_2_2023-05-28-14-39-43.svo",
+        "uploaded": false,
+        "deleted": false
+    },
+    {
+        "rec_time": [
+            2024,
+            6,
+            13,
+            12,
+            42,
+            54,
+            3,
+            165,
+            0
+        ],
+        "field_id": 2,
+        "pool_id": 2,
+        "svo_path": "svo_files\\2_2_2024-06-13-12-42-54.svo",
+        "uploaded": false,
+        "deleted": false
+    }
+]
